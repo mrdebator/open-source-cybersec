@@ -49,6 +49,7 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 | Building Automation Tools |  |
 | Designing Cloud Infrastructure |  |
 | Systems Analysis | Systems Analysis & Design by John W. Satzinger, Robert Jackson, & Stephen D. Burd |
+| Scalable, Distributed Systems | - [Building Secure And Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf) |
 
 ## Database Management
 
@@ -78,6 +79,7 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 | Securing Application Programming Interfaces (APIs) |  |
 | Access Control & Intrusion Detection |  |
 | Advanced Network Security with pfSense |  |
+| Building Secure Systems | - [Building Secure And Reliable Systems](https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf) |
 
 ## Offensive Security (Red Team)
 
