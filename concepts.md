@@ -6,7 +6,6 @@
 
 - Linux and the Command Line
 - Virtual Machines
-- Setting Up a Hacking Lab
 - Math
     - Calculus 
         - Limits
@@ -64,6 +63,7 @@
 - Automation
     - Terraform
     - Ansible
+- Setting Up a Hacking Lab
 
 ## Offensive Security (Red Team)
 
