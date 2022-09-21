@@ -7,21 +7,24 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 
 | Subject | Resources |
 | ------- | --------- |
-| Linux and the Command Line | - [Is the Terminal Still Worth Learning?](https://youtu.be/PwoD3XxYLII) <br /> - [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag) |
-| Virtual Machines |  |
-| Mathematics |  |
+| Linux and the Command Line | - [Is the Terminal Still Worth Learning?](https://youtu.be/PwoD3XxYLII) <br /> - [Beginner's Guide to the Bash Terminal](https://youtu.be/oxuRxtrO2Ag) <br /> - [OverTheWire - Bandit](https://overthewire.org/wargames/bandit/) |
+| Virtual Machines | - [Introduction to Virtual Machines by NetworkChuck](https://youtu.be/wX75Z-4MEoM) <br /> - [More on Virtual Machines from IBM](https://www.ibm.com/cloud/learn/virtual-machines) |
+| Maths - Limits |  |
+| Maths - Differentiation |  |
+| Maths - Integration |  |
+| Maths - Discrete Mathematics | - Discrete Mathematics, An Open Introduction by Oscar Levin <br /> - Proofs & Concepts, the Fundamentals of Abstract Mathematics by Dave Witte Morris and Joy Morris |
 
 ## Networking & Web
 
 | Subject | Resources |
 | ------- | --------- |
-| Networking Fundamentals |  |
-| Building Computer Networks |  |
+| IT Security Fundamentals |  |
+| Networking Fundamentals | - [Cybrary - Network+](https://www.cybrary.it/course/comptia-network-plus/) (Modules 1-3) |
+| Building Computer Networks | - Computer Networking, A Top Down Approach by James F. Kurose & Keith W. Ross |
 | Configuring Networks |  |
-| Network Security |  |
+| Network Security | - Mastering pfSense by David Zientara |
 | Windows Server Management |  |
 | Linux Server Management |  |
-| IT Security Fundamentals |  |
 | Web Systems & Services |  |
 
 ## Programming & Software Development
@@ -29,14 +32,14 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 | Subject | Resources |
 | ------- | --------- |
 | Introduction to Programming in C++ |  |
-| Programming in Python |  |
+| Programming in Python | - Learn Python the Hard Way by Zed Shaw |
 | Programming in Go |  |
 | Data Structures and Algorithms |  |
-| Systems Programming | - [MIT Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) <br /> - |
-| Systems Architecture |  |
+| Systems Programming | - [MIT Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) <br /> - Computer Science, A Programmer's Perspective by Randal E. Bryant & David R. O'Hallaron |
+| Systems Architecture | Computer Systems, A Programmer's Perspective by Randal E. Bryant & David R. O'Hallaron |
 | Systems Administration |  |
 | CI/CD + DevOps |  |
-| Software Security |  |
+| Software Security | - Computer and Internet Security by Wenliang Du (Part I) |
 
 ## System Design
 
@@ -60,7 +63,7 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 
 | Subject | Resources |
 | ------- | --------- |
-| Setting up a Hacking Lab |  |
+| Setting up a Hacking Lab | - [How to Set Up a Hacking Lab by NetworkChuck](https://youtu.be/mvsiuLzpx2E) <br /> - [Building a Cybersecurity HomeLab by Grant Collins](https://youtu.be/P85L2vwmBKA) |
 | Google Cloud |  |
 | AWS |  |
 | Docker |  |
@@ -82,8 +85,8 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 | ------- | --------- |
 | Computer Forensics |  |
 | Ethical Hacking and Penetration Testing |  |
-| Bug Bounty Track |  | 
-| OSINT Corporate Reconnaissance |  |
+| Bug Bounty Track | - [HTB Academy, Bug Bounty Track](https://academy.hackthebox.com/path/preview/bug-bounty-hunter) <br /> | 
+| Open Source Intelligence | - Open Source Intelligence Techniques by Michael Bazzell <br /> - [HTB Academy, OSINT Corporate Recon](https://academy.hackthebox.com/course/preview/osint-corporate-recon) |
 
 ## Compliance and Governance
 
