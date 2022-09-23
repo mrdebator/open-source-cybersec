@@ -31,10 +31,10 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 
 | Subject | Resources |
 | ------- | --------- |
-| Introduction to Programming in C++ |  |
-| Programming in Python | - Learn Python the Hard Way by Zed Shaw |
-| Programming in Go |  |
-| Data Structures and Algorithms |  |
+| Introduction to Programming in C++ | - The C++ Programming Language by Bjarne Stroustrup <br /> - Computer Science With C++ by Sumita Arora |
+| Programming in Python | - Learn Python the Hard Way by Zed Shaw <br /> - Learn More Python3 the Hard Way by Zed Shaw <br /> - Black Hat Python by Justin Seitz |
+| Programming in Go | - The Go Programming Language by Alan A. A. Donovan & Brian Kernighan <br /> - Black Hat Go by Tom Steele, Lord Christopher Patten, & Dan Kottmann |
+| Data Structures and Algorithms | - Algorithms (The MIT Press Essential Knowledge series) by Panos Louridas  <br /> - Algorithms Unlocked by Thomas H. Cormen |
 | Systems Programming | - [MIT Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) <br /> - Computer Science, A Programmer's Perspective by Randal E. Bryant & David R. O'Hallaron |
 | Systems Architecture | Computer Systems, A Programmer's Perspective by Randal E. Bryant & David R. O'Hallaron |
 | Systems Administration |  |
@@ -94,7 +94,7 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 
 | Subject | Resources |
 | ------- | --------- |
-| Software Project Management |  |
+| Software Project Management | - Information Technology Project Management, Providing Measurable Organizational Value by Jack T. Marchewka |
 | FedRAMP Cloud Security Guide |  |
 | Disaster Recovery & Management |  |
 
