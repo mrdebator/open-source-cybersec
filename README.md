@@ -22,7 +22,9 @@ This repository aims to highlight relevant topics pertaining to learning Informa
 | Networking Fundamentals | - [Cybrary - Network+](https://www.cybrary.it/course/comptia-network-plus/) (Modules 1-3) |
 | Building Computer Networks | - Computer Networking, A Top Down Approach by James F. Kurose & Keith W. Ross |
 | Configuring Networks |  |
-| Network Security | - Mastering pfSense by David Zientara |
+| Network Security |  |
+| Advanced Network Security |  |
+| Firewalls | - Mastering pfSense by David Zientara |
 | Windows Server Management |  |
 | Linux Server Management |  |
 | Web Systems & Services |  |
